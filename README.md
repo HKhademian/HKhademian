@@ -34,10 +34,15 @@ You can explore a full list of my projects with context and behind-the-scenes no
 ---
 
 ### 🎓 Currently Learning
-🦀 Rust — diving into systems programming and memory safety
-🧬 Linux internals — mastering iproute2, nftables, and netlink sockets, ...
-🔍 Observability — working with metrics, logs, tracing, and Prometheus
-🔐 Networking: Privacy-focused — anonymous routing and metadata reduction
-🧑‍🏫 Teaching— building a backend path from zero for self-learners
+
+- 🦀 Rust — diving into systems programming and memory safety
+
+- 🧬 Linux internals — mastering iproute2, nftables, and netlink sockets, ...
+
+- 🔍 Observability — working with metrics, logs, tracing, and Prometheus
+
+- 🔐 Networking: Privacy-focused — anonymous routing and metadata reduction
+
+- 🧑‍🏫 Teaching— building a backend path from zero for self-learners
 
 ---
