@@ -13,14 +13,6 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 - 🧪 Fast learner, problem solver, and experiment freak — I believe learning never stops.
 - 🔧 I care deeply about **clean code**, **minimalism**, and **systems that don’t leak** (data or memory).
 
----
-
-### 📂 Curious to See More?
-
-You can explore a full list of my projects with context and behind-the-scenes notes here:
-
-👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
-
 
 ---
 
@@ -48,3 +40,11 @@ You can explore a full list of my projects with context and behind-the-scenes no
 - 🔐 Networking: Privacy-focused — anonymous routing and metadata reduction
 
 - 🧑‍🏫 Teaching— building a backend path from zero for self-learners
+
+---
+
+### 📂 Curious to See More?
+
+You can explore a full list of my projects with context and behind-the-scenes notes here:
+
+👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
