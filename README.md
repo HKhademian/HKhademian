@@ -15,6 +15,15 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 
 ---
 
+### 📂 Curious to See More?
+
+You can explore a full list of my projects with context and behind-the-scenes notes here:
+
+👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
+
+
+---
+
 ### 🔨 Tech Stack
 
 - Languages:    JS/TS, Kotlin, C/C++, Python, Bash, SQL
@@ -26,15 +35,6 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 - Database:     PostgreSQL, Redis, SQLite  
 
 - Tools:        Git, REST, SSH, 
-
----
-
-### 📂 Curious to See More?
-
-You can explore a full list of my projects with context and behind-the-scenes notes here:
-
-👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
-
 ---
 
 ### 🎓 Currently Learning
@@ -48,5 +48,3 @@ You can explore a full list of my projects with context and behind-the-scenes no
 - 🔐 Networking: Privacy-focused — anonymous routing and metadata reduction
 
 - 🧑‍🏫 Teaching— building a backend path from zero for self-learners
-
----
