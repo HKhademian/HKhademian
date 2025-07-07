@@ -4,6 +4,20 @@ A personal collection of software experiments, logic simulators, low-level libra
 
 ---
 
+### 📌 Notes
+
+- Most of these were solo builds, created out of genuine curiosity and love for low-level systems.
+- Some are academic or exploratory — others were made to solve real problems.
+- I’m happy to revisit, improve, or collaborate on any of them.
+
+---
+
+> _“Build to understand. Share to inspire.”_
+
+For more recent backend projects and DevOps tools, check the [main README.md](./README.md).
+
+---
+
 ## 🧩 Systems & Simulation
 
 ### 🔢 [CordicSim](../../../CordicSim)
@@ -66,17 +80,3 @@ No libraries. No frameworks. Just raw assembly and creativity.
 An Android app built for the 1393 Tehran International Book Fair.  
 Includes event details, map, and offline catalog access.
  -->
-
----
-
-### 📌 Notes
-
-- Most of these were solo builds, created out of genuine curiosity and love for low-level systems.
-- Some are academic or exploratory — others were made to solve real problems.
-- I’m happy to revisit, improve, or collaborate on any of them.
-
----
-
-> _“Build to understand. Share to inspire.”_
-
-For more recent backend projects and DevOps tools, check the [main README.md](./README.md).
