@@ -6,19 +6,19 @@ A personal collection of software experiments, logic simulators, low-level libra
 
 ## 🧩 Systems & Simulation
 
-### 🔢 [CordicSim](#)
+### 🔢 [CordicSim](/HKhademian/CordicSim)
 Full-mode CORDIC simulator using fixed-point arithmetic.  
 Built to test trigonometric and hyperbolic operations in Q-format arithmetic.
 
-### 💡 [CordicV](#)
+### 💡 [CordicV](/HKhademian/CordicV)
 A Verilog implementation of the CORDIC algorithm, with pipelined and shared stage versions.  
 Great for FPGA designs or anyone learning about hardware-efficient math computation.
 
-### 🧮 [FixedSim](#)
+### 🧮 [FixedSim](/HKhademian/FixedSim)
 C++ library for simulating Q<m,n> fixed-point arithmetic.  
 Designed for precision-critical digital logic simulations and embedded applications.
 
-### ⚙️ [MipSim](#)
+### ⚙️ [MipSim](/HKhademian/MipSim)
 A real-time, gate-level multi-cycle MIPS pipeline emulator.  
 Useful for understanding pipelining, hazards, and instruction execution at the hardware level.
 
@@ -26,11 +26,11 @@ Useful for understanding pipelining, hazards, and instruction execution at the h
 
 ## 🛠 Hardware Logic & RTL
 
-### 🧾 [SimpleMachine](#)
+### 🧾 [SimpleMachine](/HKhademian/SimpleMachine)
 A Verilog-based abstract machine that executes basic operations in internal registers.  
 Excellent for experimenting with state transitions and control logic.
 
-### 🧰 [SimKT](#)
+### 🧰 [SimKT](/HKhademian/SimKT)
 Real-time logic gate simulator written in Kotlin for the JVM.  
 An interactive way to visualize how gates behave and interact in real-time systems.
 
@@ -38,11 +38,11 @@ An interactive way to visualize how gates behave and interact in real-time syste
 
 ## 🔬 Low-Level & Binary Systems
 
-### 📦 [Strukt.js](#)
+### 📦 [Strukt.js](/HKhademian/Strukt.js)
 A compact JavaScript library for working with C-like struct layouts and memory views.  
 Enables easy binary parsing and memory mapping inside JS apps.
 
-### 📁 [BinaryDatabase](#)
+### 📁 [BinaryDatabase](/HKhademian/BinaryDatabase)
 A lightweight, portable database engine in C++.  
 Simple binary format, ideal for embedded or offline data storage.
 
@@ -50,21 +50,23 @@ Simple binary format, ideal for embedded or offline data storage.
 
 ## ➗ Math & Utility Tools
 
-### 🧠 [ComplexMachine](#)
+### 🧠 [ComplexMachine](/HKhademian/ComplexMachine)
 A set of tools and calculators for complex numbers — from Bash-based CLI calculators to polynomial and series solvers — all in C++.
 
 ---
 
 ## 🎼 Creative & Unconventional
 
-### 🎹 [Pianism](#)
+### 🎹 [Pianism](/HKhademian/Pianism)
 A minimalist piano app written in bare x86 assembly for Windows.  
 No libraries. No frameworks. Just raw assembly and creativity.
 
+<!--
 ### 📚 [Namayeshgah Ketab 93](#)
 An Android app built for the 1393 Tehran International Book Fair.  
 Includes event details, map, and offline catalog access.
-
+ -->
+ 
 ---
 
 ### 📌 Notes
