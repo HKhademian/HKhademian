@@ -6,13 +6,17 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 
 ---
 
-### 🧭 About Me
+### 🧠 A Bit About Me
 
 - 💻 Software Engineer: with a fluid style, I move easily between stacks, tools, and mindsets.
-- 🌍 Based in Germany — building privacy-aware infrastructure and open tools.
-- 🧪 Fast learner, problem solver, and experiment freak — I believe learning never stops.
+- 🔨 I write code — cross-stack, mostly backend, mostly clean, sometimes weird.
+- 🛠️ I believe in deep focus, and solving real problems.
 - 🔧 I care deeply about **clean code**, **minimalism**, and **systems that don’t leak** (data or memory).
-
+- 🧪 I learn by doing: break → build → repeat.
+- 🧭 Fast learner, problem solver, and experiment freak — I believe learning never stops.
+- 🌍 I care a lot about privacy, open systems, and tech that respects people.
+- 🌍 Live in Germany 🇩🇪 — working in Telecom infrastructure.
+- ☕ Coffee helps. So does walking.
 
 ---
 
@@ -22,11 +26,12 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 
 - Frameworks:   NestJS, Express, FastAPI, Flask, Angular, React
 
-- DevOps:       CI/CD, Kubernetes, Docker \& Podman, NGINX  
+- DevOps:       CI/CD, Kubernetes, Docker \& Podman, NGINX
 
-- Database:     PostgreSQL, Redis, SQLite  
+- Database:     PostgreSQL, Redis, SQLite
 
-- Tools:        Git, REST, SSH, 
+- Other:        Wasm, Git, REST, SSH,
+
 ---
 
 ### 🎓 Currently Learning
