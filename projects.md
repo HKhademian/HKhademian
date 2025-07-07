@@ -33,7 +33,8 @@ C++ library for simulating Q<m,n> fixed-point arithmetic.
 Designed for precision-critical digital logic simulations and embedded applications.
 
 ### ⚙️ [MipSim](../../../MipSim)
-A real-time, gate-level multi-cycle MIPS pipeline emulator.  
+A simple **real-time**, **gate-level**, **multi-cycle** MIPS **pipeline emulator**.  
+Built to study how pipelining really works — instruction by instruction, cycle by cycle.
 Useful for understanding pipelining, hazards, and instruction execution at the hardware level.
 
 ---
@@ -47,6 +48,10 @@ Excellent for experimenting with state transitions and control logic.
 ### 🧰 [SimKT](../../../SimKT)
 Real-time logic gate simulator written in Kotlin for the JVM.  
 An interactive way to visualize how gates behave and interact in real-time systems.
+
+### ➕ [MathPP](../../../MathPP)
+Simulates mathematical operations at a logical gate level in C++.  
+Useful for learning how math is computed at the hardware logic level.
 
 ---
 
@@ -62,18 +67,34 @@ Simple binary format, ideal for embedded or offline data storage.
 
 ---
 
-## ➗ Math & Utility Tools
+## 💻 Web, Layout & UI Experiments
 
-### 🧠 [ComplexMachine](../../../ComplexMachine)
-A set of tools and calculators for complex numbers — from Bash-based CLI calculators to polynomial and series solvers — all in C++.
+### 📐 [LayoutJS](../../../LayoutJS)
+A collection of native Web Components and layout primitives.  
+Provides a basic, modern layout system with **vanilla CSS** and no dependencies.
+
+### 🔄 [ObservableJS](../../../ObservableJS)
+Tiny and efficient **observable values** (signals) in plain JavaScript.  
+Inspired by reactive programming patterns — no frameworks, just logic.
 
 ---
 
-## 🎼 Creative & Unconventional
+## 🎮 Game & Assembly
+
+### 🐍 [Snake4W](../../../Snake4W)
+A classic Snake game implemented for the [Wasm4](https://wasm4.org/) fantasy console.  
+Written for the web in ultra-low-level WASM environments.
 
 ### 🎹 [Pianism](../../../Pianism)
 A minimalist piano app written in bare x86 assembly for Windows.  
 No libraries. No frameworks. Just raw assembly and creativity.
+
+---
+
+## ➗ Math & Utility Tools
+
+### 🧠 [ComplexMachine](../../../ComplexMachine)
+A set of tools and calculators for complex numbers — from Bash-based CLI calculators to polynomial and series solvers — all in C++.
 
 <!--
 ### 📚 [Namayeshgah Ketab 93](#)
