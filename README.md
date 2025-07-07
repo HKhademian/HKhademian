@@ -23,13 +23,9 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 ### 🔨 Tech Stack
 
 - Languages:    JS/TS, Kotlin, C/C++, Python, Bash, SQL
-
 - Frameworks:   NestJS, Express, FastAPI, Flask, Angular, React
-
 - DevOps:       CI/CD, Kubernetes, Docker \& Podman, NGINX
-
 - Database:     PostgreSQL, Redis, SQLite
-
 - Other:        Wasm, Git, REST, SSH,
 
 ---
@@ -37,13 +33,9 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 ### 🎓 Currently Learning
 
 - 🦀 Rust — diving into systems programming and memory safety
-
 - 🧬 Linux internals — mastering iproute2, nftables, and netlink sockets, ...
-
 - 🔍 Observability — working with metrics, logs, tracing, and Prometheus
-
 - 🔐 Networking: Privacy-focused — anonymous routing and metadata reduction
-
 - 🧑‍🏫 Teaching— building a backend path from zero for self-learners
 
 ---
