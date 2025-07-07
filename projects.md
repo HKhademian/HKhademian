@@ -14,7 +14,7 @@ A personal collection of software experiments, logic simulators, low-level libra
 
 > _“Build to understand. Share to inspire.”_
 
-For more recent projects and tools, check the main [README.md](./README.md).
+For more recent projects and tools, check the [main page](./README.md).
 
 ---
 
