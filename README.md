@@ -1,8 +1,16 @@
 ### 👋 Hello!
 # I'm Hossain
 
-A curious mind with an engineer's discipline — I build systems that work, scale, and respect user privacy.  
-Currently crafting clean backend architectures, tuning systems on Debian boxes, and mentoring the next generation of devs.
+A curious mind with an engineer's mindset — I build systems that work, scale, and respect user privacy.  
+Currently working on clean backend architectures, tuning systems on linux vps, and mentoring the next generation of devs.
+
+---
+
+### 📂 Curious?
+
+You can explore a full list of my projects with context and behind-the-scenes notes here:
+
+👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
 
 ---
 
@@ -26,7 +34,7 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 - Frameworks:   NestJS, Express, FastAPI, Flask, Angular, React
 - DevOps:       CI/CD, Kubernetes, Docker \& Podman, NGINX
 - Database:     PostgreSQL, Redis, SQLite
-- Other:        Wasm, Git, REST, SSH,
+- Other:        Wasm, Git, REST, SSH, Linux
 
 ---
 
@@ -37,14 +45,6 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 - 🔍 Observability — working with metrics, logs, tracing, and Prometheus
 - 🔐 Networking: Privacy-focused — anonymous routing and metadata reduction
 - 🧑‍🏫 Teaching— building a backend path from zero for self-learners
-
----
-
-### 📂 Curious to See More?
-
-You can explore a full list of my projects with context and behind-the-scenes notes here:
-
-👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
 
 --- 
 
