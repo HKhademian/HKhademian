@@ -17,11 +17,15 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 
 ### 🔨 Tech Stack
 
-Languages:    JS/TS, Kotlin, C/C++, Python, Bash, SQL
-Frameworks:   NestJS, Express, FastAPI, Flask, Angular, React
-DevOps:       CI/CD, Kubernetes, Docker \& Podman, GitHub Actions, NGINX  
-Storage:      PostgreSQL, Redis, SQLite  
-Tools:        Git, REST APIs, SSH
+- Languages:    JS/TS, Kotlin, C/C++, Python, Bash, SQL
+
+- Frameworks:   NestJS, Express, FastAPI, Flask, Angular, React
+
+- DevOps:       CI/CD, Kubernetes, Docker \& Podman, NGINX  
+
+- Database:     PostgreSQL, Redis, SQLite  
+
+- Tools:        Git, REST, SSH, 
 
 ---
 
