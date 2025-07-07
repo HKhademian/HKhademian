@@ -32,4 +32,49 @@ Excellent for experimenting with state transitions and control logic.
 
 ### 🧰 [SimKT](#)
 Real-time logic gate simulator written in Kotlin for the JVM.  
-An interact
+An interactive way to visualize how gates behave and interact in real-time systems.
+
+---
+
+## 🔬 Low-Level & Binary Systems
+
+### 📦 [Strukt.js](#)
+A compact JavaScript library for working with C-like struct layouts and memory views.  
+Enables easy binary parsing and memory mapping inside JS apps.
+
+### 📁 [BinaryDatabase](#)
+A lightweight, portable database engine in C++.  
+Simple binary format, ideal for embedded or offline data storage.
+
+---
+
+## ➗ Math & Utility Tools
+
+### 🧠 [ComplexMachine](#)
+A set of tools and calculators for complex numbers — from Bash-based CLI calculators to polynomial and series solvers — all in C++.
+
+---
+
+## 🎼 Creative & Unconventional
+
+### 🎹 [Pianism](#)
+A minimalist piano app written in bare x86 assembly for Windows.  
+No libraries. No frameworks. Just raw assembly and creativity.
+
+### 📚 [Namayeshgah Ketab 93](#)
+An Android app built for the 1393 Tehran International Book Fair.  
+Includes event details, map, and offline catalog access.
+
+---
+
+### 📌 Notes
+
+- Most of these were solo builds, created out of genuine curiosity and love for low-level systems.
+- Some are academic or exploratory — others were made to solve real problems.
+- I’m happy to revisit, improve, or collaborate on any of them.
+
+---
+
+> _“Build to understand. Share to inspire.”_
+
+For more recent backend projects and DevOps tools, check the [main README.md](./README.md).
