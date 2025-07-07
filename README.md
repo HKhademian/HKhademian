@@ -45,3 +45,13 @@ Currently crafting clean backend architectures, tuning systems on Debian boxes, 
 You can explore a full list of my projects with context and behind-the-scenes notes here:
 
 👉 [**projects.md**](./projects.md) — my personal dev journal of what I’ve built, why I built it, and what I learned.
+
+--- 
+
+### 🧓 Some big words
+
+"Technology should empower, not extract."
+
+"Code is poetry when it’s honest."
+
+"Learn constantly. Help generously."
